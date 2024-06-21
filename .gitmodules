@@ -1,3 +1,6 @@
 [submodule "API"]
 	path = API
 	url = https://github.com/manasagangothri2111/Microservices.git
+[submodule "Security/security"]
+	path = Security/security
+	url = https://github.com/manasagangothri2111/Assignments.git
