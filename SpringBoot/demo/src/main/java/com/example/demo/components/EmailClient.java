@@ -1,4 +1,4 @@
-package com.cts.components;
+package com.example.demo.components;
 
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
